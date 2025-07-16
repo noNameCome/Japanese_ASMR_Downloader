@@ -1,19 +1,26 @@
 =========================================
   Japanese ASMR Downloader - 최종 배포판
 =========================================
+  타켓페이지 => https://japaneseasmr.com/
+  그외 사이트 지원 불가
+   샘플 
+      url https://japaneseasmr.com/134918/
+      url https://japaneseasmr.com/121293/
+      url https://japaneseasmr.com/12314/
 
 🚀 빠른 시작:
-1. Japanese_ASMR_Downloader.bat 실행
-2. 패키지 자동 설치 대기
-3. GUI에서 URL 입력 후 다운로드
-4. mp3 폴더에서 파일 확인
+1. VPN 실행
+2. Japanese_ASMR_Downloader.bat 실행
+3. 패키지 자동 설치 대기
+4. GUI에서 URL 입력 후 다운로드
+5. mp3 폴더에서 파일 확인
 
 =========================================
 📁 배포 패키지 구성:
 =========================================
 
 ✅ 필수 파일들:
-├── Japanese_ASMR_Downloader.bat  ← 메인 실행 파일
+├── Japanese_ASMR_Downloader.bat         ← 메인 실행 파일
 ├── audio_downloader.py                  ← 핵심 다운로드 엔진
 ├── gui_downloader.py                    ← GUI 인터페이스
 ├── requirements.txt                     ← 의존성 패키지 목록
@@ -46,32 +53,6 @@ Python: 3.7 이상 버전 필요
 - Pillow            (이미지 처리)
 
 =========================================
-🔧 사용법 상세:
-=========================================
-
-  타켓페이지 => https://japaneseasmr.com/
-  그외 사이트 지원 불가
-   샘플 
-      url https://japaneseasmr.com/134918/
-      url https://japaneseasmr.com/121293/
-      url https://japaneseasmr.com/12314/
-
-0단계:  VPN 필수 사용
-
-1단계: 프로그램 실행
-- Japanese_ASMR_Downloader.bat 더블클릭
-- 콘솔 창에서 자동 설치 과정 확인
-
-2단계: URL 준비
-- 브라우저에서 다운로드할 페이지 이동
-- 주소창의 URL 전체 복사
-
-3단계: GUI 사용
-- URL 입력란에 붙여넣기 (Ctrl+V)
-- "다운로드 시작" 버튼 클릭
-- 진행 상황 모니터링
-
-=========================================
 ❗ 문제해결 가이드:
 =========================================
 
@@ -88,7 +69,7 @@ Q: GUI가 열리지 않음
 A: Python tkinter 패키지 확인 (보통 기본 설치됨)
 
 Q: 다운로드 실패 (403 오류)
-A: 프로그램에 내장된 우회 기능이 자동 작동
+A: VPN 실행
 
 Q: MP3 앨범 아트가 보이지 않음
 A: 플레이어 새로고침 또는 다른 플레이어 사용
