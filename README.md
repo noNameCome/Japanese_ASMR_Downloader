@@ -2,7 +2,7 @@
 <img width="1487" height="632" alt="image" src="https://github.com/user-attachments/assets/53f9844b-5978-4568-9cfc-9279aef760b0" />
 
 
-# Japanese ASMR Downloader - 최종 배포판
+# Japanese ASMR Downloader
 
 ---
 
