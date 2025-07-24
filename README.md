@@ -1,5 +1,5 @@
 
-<img width="1487" height="632" alt="image" src="https://github.com/user-attachments/assets/53f9844b-5978-4568-9cfc-9279aef760b0" />
+<img width="1578" height="732" alt="image" src="https://github.com/user-attachments/assets/8fcdd6b2-606e-42f3-8c8f-d63741dbad8b" />
 
 
 # Japanese ASMR Downloader
